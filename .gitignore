@@ -54,3 +54,6 @@ logs/
 *.tmp
 *.temp
 
+# Backups (로컬 보존용, git에는 포함하지 않음)
+backups/
+
