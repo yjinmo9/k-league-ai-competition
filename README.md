@@ -78,3 +78,4 @@ pip install -r requirements.txt
 - 대용량 파일(모델, 데이터)은 `.gitignore`에 포함되어 저장소에 업로드되지 않습니다.
 - 학습된 모델은 `ag_models_x/`, `ag_models_y/` 폴더에 저장됩니다.
 
+
