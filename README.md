@@ -79,3 +79,7 @@ pip install -r requirements.txt
 - 학습된 모델은 `ag_models_x/`, `ag_models_y/` 폴더에 저장됩니다.
 
 
+
+
+
+
