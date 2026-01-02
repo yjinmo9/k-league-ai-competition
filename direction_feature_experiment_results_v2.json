@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "name": "baseline",
+      "features": "없음",
+      "cv_mean": 14.577955352629715,
+      "cv_std": 0.15928972003109826,
+      "p90": 29.223168025825565,
+      "p95": 36.7939451171347,
+      "pred_std_x": 20.827691275679094,
+      "pred_std_y": 20.668531028111794,
+      "timestamp": "2026-01-02T00:26:03.637925",
+      "elapsed_time": 1465.4841549396515
+    },
+    {
+      "name": "GoalRelativeTacticalBin",
+      "features": "GoalRelativeTacticalBin",
+      "cv_mean": 14.885092179662298,
+      "cv_std": 0.16013281396610524,
+      "p90": 29.570359220463622,
+      "p95": 37.024558419640314,
+      "pred_std_x": 20.756652127382736,
+      "pred_std_y": 20.442357574668296,
+      "timestamp": "2026-01-02T14:11:15.523455",
+      "elapsed_time": 1548.0315680503845
+    },
+    {
+      "name": "GoalRelativeTacticalBinWithZone",
+      "features": "GoalRelativeTacticalBinWithZone",
+      "cv_mean": 14.922593992260806,
+      "cv_std": 0.15139041584089696,
+      "p90": 29.51664514920862,
+      "p95": 37.09722322270322,
+      "pred_std_x": 20.73050350760926,
+      "pred_std_y": 20.448104491614718,
+      "timestamp": "2026-01-02T14:34:47.105076",
+      "elapsed_time": 1411.5492310523987
+    },
+    {
+      "name": "ConditionalDirectionContext",
+      "features": "ConditionalDirectionContext",
+      "cv_mean": 14.96261610071421,
+      "cv_std": 0.15352212112470048,
+      "p90": 29.581144463685263,
+      "p95": 37.37206862750403,
+      "pred_std_x": 20.73562071845609,
+      "pred_std_y": 20.44363295471122,
+      "timestamp": "2026-01-02T15:01:37.434496",
+      "elapsed_time": 1610.304498910904
+    }
+  ],
+  "last_updated": "2026-01-02T15:01:37.458746",
+  "total_time_seconds": 4569.9671449661255
+}
